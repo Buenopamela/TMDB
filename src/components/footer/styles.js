@@ -7,6 +7,7 @@ export const ContainerFooter = styled.footer`
   align-items: center;
   background-color: #0a3666;
   height: 5rem;
+  position: absolute bottom 0;
 `;
 
 export const ContainerImg = styled.div`
